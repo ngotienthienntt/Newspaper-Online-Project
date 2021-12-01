@@ -1,6 +1,4 @@
-# Newspaper-Online-Project
-
-Hướng dẫ build source
+Để build sourcecode ta làm theo các bước sau.
   - Bước 1: Cài đặt NodeJS và MySQL
   - Bước 2: Cài đặt cơ sở dữ liệu newspaperdb
     + Tiến hành import file script newspaperdb.sql trong thư mục Database vào MySQL để tạo cơ sở dữ liệu newspaperdb
