@@ -1,4 +1,6 @@
-# Newspaper-Online-Project
+# Newspaper-Online-Project 
+
+Deploy server: https://newspaperonlineweb.herokuapp.com/
 
 Hướng dẫ build source
   - Bước 1: Cài đặt NodeJS và MySQL

@@ -1,10 +1,10 @@
 {
   "mysql": {
-    "host": "localhost",
+    "host": "remotemysql.com",
     "port": 3306,
-    "user": "root",
-    "password": "",
-    "database": "newspaperdb",
+    "user": "FhJaeHipwL",
+    "password": "iep1Ad03SJ",
+    "database": "FhJaeHipwL",
     "connectionLimit": 50
   },
   "pagination": {
